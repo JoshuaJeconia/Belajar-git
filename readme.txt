@@ -1,2 +1,3 @@
 Belajar GIT dengan semangat 
-Aku suka China
+AKU SUKA CHINA
+CHINA SUKA AKU
